@@ -1,6 +1,7 @@
 # Table of Contents
 1. [Models](#1-models)
-    1.1 [Cascaded Anisotropic Convolutional Neural Networks](#11-cascaded-anisotropic-convolutional-neural-networks)
+    1.1 [Cascaded Anisotropic Convolutional Neural Networks](#11-cascaded-anisotropic-convolutional-neural-networks)   
+    
     1.2 DeepMedic (3D segment)
     1.3 U-net (2D segment)
     1.4 EFFICIENT SYMMETRY-DRIVEN FULLY CONVOLUTIONAL NETWORK FOR MULTIMODAL BRAIN TUMOR SEGMENTATION
