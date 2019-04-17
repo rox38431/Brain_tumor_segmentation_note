@@ -5,31 +5,7 @@
 [Link](#11-hello-world)
 
 # III. Table Compare Models
- Table Compare Models Table Compare Models
-  Table Compare Models
-   Table Compare Models
-    Table Compare Models
-     Table Compare Models
-      Table Compare Models Table Compare Models
-  Table Compare Models
-   Table Compare Models
-    Table Compare Models
-     Table Compare Models
-      Table Compare Models Table Compare Models
-  Table Compare Models
-   Table Compare Models
-    Table Compare Models
-     Table Compare Models
-      Table Compare Models Table Compare Models
-  Table Compare Models
-   Table Compare Models
-    Table Compare Models
-     Table Compare Models
-      Table Compare Models Table Compare Models
-  Table Compare Models
-   Table Compare Models
-    Table Compare Models
-     Table Compare Models
+
 |               Model              	|                                 Input                                	|  Kernel Size 	|     Residual Connection     	| Layer 數 	| 抓取不同深度的  feature map  做 concatenate 	| AAAAAAAAAAAA 	| AAAAAAAAAAA 	| AAAAAAAAAAAAAAAA 	| AAAAAAAAAAAAA 	| AAAAA 	| AAAA 	| AAAA 	|
 |:--------------------------------:	|:--------------------------------------------------------------------:	|:------------:	|:---------------------------:	|:--------:	|:-------------------------------------------:	|--------------	|-------------	|------------------	|---------------	|-------	|------	|------	|
 |               CACN               	| 以3個不同方向的 MRI train 3 個 model, 144x144x19, 96x96x19, 64x64x19 	| 3x3x1, 1x1x3 	|              Y              	|    26    	|                      Y                      	|              	|             	|                  	|               	|       	|      	|      	|
