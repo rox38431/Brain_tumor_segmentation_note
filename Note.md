@@ -2,8 +2,8 @@
 1. [Models](#1-models)   
     1.1 [Cascaded Anisotropic Convolutional Neural Networks](#11-cascaded-anisotropic-convolutional-neural-networks)   
     1.2 [DeepMedic (3D segment)](#12-deepmedic-3d-segment)   
-    1.3 [U-net (2D segment)](13-u-net-2d-segment)   
-    1.4 [EFFICIENT SYMMETRY-DRIVEN FULLY CONVOLUTIONAL NETWORK FOR MULTIMODAL BRAIN TUMOR SEGMENTATION]   
+    1.3 [U-net (2D segment)](#13-u-net-2d-segment)   
+    1.4 [EFFICIENT SYMMETRY-DRIVEN FULLY CONVOLUTIONAL NETWORK FOR MULTIMODAL BRAIN TUMOR SEGMENTATION](#14-efficient-symmetry-driven- fully-convolutional-network-for-multimodal-brain-tumor-segmentation)   
     1.5 [Boundary-Aware Fully Convolutional Network for Brain Tumor Segmentation]   
     1.6 [Ensembles of Multiple Models and Architectures for Robust Brain Tumour Segmentation]   
     1.7 [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation]   
