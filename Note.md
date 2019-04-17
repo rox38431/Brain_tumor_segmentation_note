@@ -12,15 +12,15 @@
 2. [Table Compare Models](#2-table-compare-models)   
 ---
 # 1. Models
-#### 1.1 [Cascaded Anisotropic Convolutional Neural Networks](https://arxiv.org/abs/1709.00382 "link") 
-#### 1.2 DeepMedic (3D segment)
-#### 1.3 U-net (2D segment)
-#### 1.4 EFFICIENT SYMMETRY-DRIVEN FULLY CONVOLUTIONAL NETWORK FOR MULTIMODAL BRAIN TUMOR SEGMENTATION
-#### 1.5 Boundary-Aware Fully Convolutional Network for Brain Tumor Segmentation
-#### 1.6 Ensembles of Multiple Models and Architectures for Robust Brain Tumour Segmentation
-#### 1.7 3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation
-#### 1.8 On the Compactness, Efficiency, and Representation of 3D Convolutional Networks: Brain Parcellation as a Pretext Task
-#### 1.9 3D MRI brain tumor segmentation using autoencoder regularization
+### 1.1 [Cascaded Anisotropic Convolutional Neural Networks](https://arxiv.org/abs/1709.00382 "link") 
+### 1.2 DeepMedic (3D segment)
+### 1.3 U-net (2D segment)
+### 1.4 EFFICIENT SYMMETRY-DRIVEN FULLY CONVOLUTIONAL NETWORK FOR MULTIMODAL BRAIN TUMOR SEGMENTATION
+### 1.5 Boundary-Aware Fully Convolutional Network for Brain Tumor Segmentation
+### 1.6 Ensembles of Multiple Models and Architectures for Robust Brain Tumour Segmentation
+### 1.7 3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation
+### 1.8 On the Compactness, Efficiency, and Representation of 3D Convolutional Networks: Brain Parcellation as a Pretext Task
+### 1.9 3D MRI brain tumor segmentation using autoencoder regularization
 
 # 2. Table Compare Models
 |               Model              	|                                 Input                                	|  Kernel Size 	|     Residual Connection     	| Layer 數 	| 抓取不同深度的  feature map  做 concatenate 	| AAAAAAAAAAAA 	| AAAAAAAAAAA 	| AAAAAAAAAAAAAAAA 	| AAAAAAAAAAAAA 	| AAAAA 	| AAAA 	| AAAA 	|
