@@ -7,7 +7,7 @@
     1.5 [Boundary-Aware Fully Convolutional Network for Brain Tumor Segmentation](#15-boundary-aware-fully-convolutional-network-for-brain-tumor-segmentation)   
     1.6 [Ensembles of Multiple Models and Architectures for Robust Brain Tumour Segmentation](#16-ensembles-of-multiple-models-and-architectures-for-robust-brain-tumour-segmentation)   
     1.7 [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](#17-3d-u-net-learning-dense-volumetric-segmentation-from-sparse-annotation)   
-    1.8 [On the Compactness, Efficiency, and Representation of 3D Convolutional Networks: Brain Parcellation as a Pretext Task]   
+    1.8 [On the Compactness, Efficiency, and Representation of 3D Convolutional Networks: Brain Parcellation as a Pretext Task](#18-on-the-compactness-efficiency-and-representation-of-3d-convolutional-networks-brain-parcellation-as-a-oretext-task)   
     1.9 [3D MRI brain tumor segmentation using autoencoder regularization]   
 2. [Table Compare Models](#2-table-compare-models)   
 ---
