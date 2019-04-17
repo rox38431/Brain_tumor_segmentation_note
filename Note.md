@@ -5,7 +5,7 @@
     1.3 [U-net (2D segment)](#13-u-net-2d-segment)   
     1.4 [EFFICIENT SYMMETRY-DRIVEN FULLY CONVOLUTIONAL NETWORK FOR MULTIMODAL BRAIN TUMOR SEGMENTATION](#14-efficient-symmetry-driven-fully-convolutional-network-for-multimodal-brain-tumor-segmentation)   
     1.5 [Boundary-Aware Fully Convolutional Network for Brain Tumor Segmentation](#15-boundary-aware-fully-convolutional-network-for-brain-tumor-segmentation)   
-    1.6 [Ensembles of Multiple Models and Architectures for Robust Brain Tumour Segmentation](#16-ensembles-of-multiple-models-and-architectures-for-robust-brain-tumor-segmentation)   
+    1.6 [Ensembles of Multiple Models and Architectures for Robust Brain Tumour Segmentation](#16-ensembles-of-multiple-models-and-architectures-for-robust-brain-tumour-segmentation)   
     1.7 [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation]   
     1.8 [On the Compactness, Efficiency, and Representation of 3D Convolutional Networks: Brain Parcellation as a Pretext Task]   
     1.9 [3D MRI brain tumor segmentation using autoencoder regularization]   
